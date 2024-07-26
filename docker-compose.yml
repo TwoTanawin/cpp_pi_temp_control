@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  pi_temp_control:
+    build: .
+    container_name: pi_temp_control
+    command: ./build/pi_temp_control
+    volumes:
+      - .:/app
+    tty: true

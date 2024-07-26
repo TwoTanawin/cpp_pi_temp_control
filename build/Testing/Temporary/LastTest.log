@@ -1,0 +1,19 @@
+Start testing: Jul 26 13:58 +07
+----------------------------------------------------------
+1/1 Testing: test_pi_controller
+1/1 Test: test_pi_controller
+Command: "/home/tanawin-wd/LLM_unit_test/pi_temp_control/build/test_pi_controller"
+Directory: /home/tanawin-wd/LLM_unit_test/pi_temp_control/build
+"test_pi_controller" start time: Jul 26 13:58 +07
+Output:
+----------------------------------------------------------
+All tests passed!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_pi_controller" end time: Jul 26 13:58 +07
+"test_pi_controller" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 26 13:58 +07

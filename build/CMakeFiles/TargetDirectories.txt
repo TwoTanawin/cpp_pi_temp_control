@@ -1,0 +1,6 @@
+/home/tanawin-wd/LLM_unit_test/pi_temp_control/build/CMakeFiles/coverage.dir
+/home/tanawin-wd/LLM_unit_test/pi_temp_control/build/CMakeFiles/pi_temp_control.dir
+/home/tanawin-wd/LLM_unit_test/pi_temp_control/build/CMakeFiles/test_pi_controller.dir
+/home/tanawin-wd/LLM_unit_test/pi_temp_control/build/CMakeFiles/test.dir
+/home/tanawin-wd/LLM_unit_test/pi_temp_control/build/CMakeFiles/edit_cache.dir
+/home/tanawin-wd/LLM_unit_test/pi_temp_control/build/CMakeFiles/rebuild_cache.dir
